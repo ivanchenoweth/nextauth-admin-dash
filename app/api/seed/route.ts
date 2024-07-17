@@ -1,4 +1,4 @@
-// import { db, products } from 'lib/db';
+import { db, products } from 'lib/db';
 
 export const dynamic = 'force-dynamic';
 
